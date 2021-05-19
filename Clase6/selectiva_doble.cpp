@@ -11,8 +11,8 @@ int main(){
     scanf("%i", &num2);
     
     if(num1>num2){
-        printf("El numero mayor es %i", &num1);
+        printf("El numero mayor es %i", num1);
     } else {
-        printf("El numero mayor es %i", &num2);
+        printf("El numero mayor es %i", num2);
     }
 }
