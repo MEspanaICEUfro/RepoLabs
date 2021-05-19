@@ -17,5 +17,4 @@ int main () {
     area = (M_PI)*(radio)*(radio);
 
     printf("El perimetro del circulo es %f y el area es %f", perimetro, area);
-
 }
